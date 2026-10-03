@@ -87,7 +87,7 @@ body {
 
 .projects-container {
   display: flex;
-  gap: 24px 24px;
+  gap: 24px 16px;
   flex-wrap: wrap;
 }
 
@@ -107,8 +107,8 @@ body {
     }
 
     .project-image {
-      width: 150px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
       object-fit: cover;
       object-position: center;
     }

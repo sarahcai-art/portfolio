@@ -3,13 +3,13 @@ body {
 }
 
 .nav-title {
-  font-weight: 700;
-  font-size: 24px;
+  font-weight: 500;
+  font-size: 20px;
 }
 
 .button-text {
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .image-caption {
@@ -19,17 +19,17 @@ body {
 
 .main-title {
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .subheader-text {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .body-text {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 .project-card-text {

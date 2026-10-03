@@ -108,7 +108,7 @@ body {
 
     .project-image {
       width: 100%;
-      aspect-ratio: 2 / 3;
+      height: 400px;
       object-fit: cover;
       object-position: center;
     }
